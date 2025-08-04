@@ -13,7 +13,7 @@
 💻 MERN Stack Developer at Masai School  
 📍 Based in Bangalore, Karnataka  
 📱 8305402886 | 📧 ishamahajan933@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/isha-mahajan23) • [Portfolio]((https://ishamahajan-portfolio.netlify.app/))
+🔗 [LinkedIn](https://linkedin.com/in/isha-mahajan23) • [Portfolio](https://ishamahajan-portfolio.netlify.app/)
 
 ---
 
