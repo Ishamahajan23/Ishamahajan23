@@ -11,9 +11,9 @@
 
 🎓 B.Tech Graduate (May 2024) from RGPV, Bhopal  
 💻 MERN Stack Developer at Masai School  
-📍 Based in Pune, Maharashtra  
+📍 Based in Bangalore, Karnataka  
 📱 8305402886 | 📧 ishamahajan933@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/isha-mahajan23) • [Portfolio](https://ishamahajan.netlify.app)
+🔗 [LinkedIn](https://linkedin.com/in/isha-mahajan23) • [Portfolio]((https://ishamahajan-portfolio.netlify.app/))
 
 ---
 
@@ -21,7 +21,8 @@
 
 - **Languages:** JavaScript, HTML5, CSS3  
 - **Frontend:** React.js, Tailwind CSS, Material UI, Next.js  
-- **Backend:** Firebase, RESTful APIs  
+- **Backend:** Node.js, Express.js, Firebase, RESTful APIs
+- **Database:** MongoDB
 - **Tools:** GitHub, Vite, Redux, Netlify  
 - **Soft Skills:** Teamwork, Communication, Fast Learner, Detail-Oriented
 
@@ -40,7 +41,7 @@ _Feb 2025 – Jun 2025_
 ## 🧪 Certifications
 
 - ✅ MERN Stack Development – Masai School  
-- 🥇 xto10x Hackathon Edition #4 – [View Certificate](#)
+- 🥇 xto10x Hackathon Edition #4 
 
 ---
 
@@ -67,18 +68,8 @@ _Feb 2025 – Jun 2025_
 You should pin the following (go to your GitHub profile → **Customize your pins**):
 - Lets-Chat
 - Investment-Portfolio-Tracker
-- MoodMate
-- GlobexMart-Pro
+- Educational Gaming App
 - Portfolio
-- Gift-Hamper-Builder (if public)
-
----
-
-## 📹 Video Walkthroughs
-Add Loom or YouTube links to your walkthroughs here:
-
-- 📽️ [Lets-Chat Walkthrough](#)
-- 📽️ [Investment Tracker Demo](#)
 
 ---
 
@@ -103,7 +94,7 @@ Add Loom or YouTube links to your walkthroughs here:
 
 - 📩 **Email:** ishamahajan933@gmail.com  
 - 🔗 **LinkedIn:** [isha-mahajan23](https://linkedin.com/in/isha-mahajan23)  
-- 🌐 **Portfolio:** [ishamahajan.netlify.app](https://ishamahajan.netlify.app)  
+- 🌐 **Portfolio:** [[ishamahajan.netlify.app](https://ishamahajan-portfolio.netlify.app/)] 
 - 📱 **Phone:** 8305402886  
 
 ---
